@@ -1,0 +1,10 @@
+Aluno1
+10
+Aluno2
+45
+Aluno3
+80
+Aluno4
+90
+Aluno5
+100
