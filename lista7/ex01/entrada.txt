@@ -1,0 +1,27 @@
+Gandalf
+10
+30
+Legolas
+8
+25
+Aragorn
+9
+35
+Merlin
+12
+28
+Robin
+6
+22
+Boromir
+11
+33
+Morgana
+15
+27
+Green Arrow
+7
+20
+Thorin
+13
+40
